@@ -1,3 +1,1 @@
-# Getting Started with Create React App
-
-## Basic redux web app for future reference
+#Basic react redux web app for future reference
